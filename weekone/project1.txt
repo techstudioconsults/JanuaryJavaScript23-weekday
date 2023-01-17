@@ -1,0 +1,31 @@
+FIRST PROJECT
+This is Multiple page website, it has a Landing, about, and a contact page. This website must use the appropriate HTML tags.
+Requirements for each page
+
+LANDING PAGE
+Have a navigation bar that goes to the other pages.
+Must have an image copied from the web
+Have about 800 words with proper headings
+Have an anchor tag that goes back to the top of the page
+
+ABOUT PAGE
+Have a navigation bar that goes to the other pages
+Must include an image from your laptop, preferably your image
+Write a brief Description of yourself
+List out all of your educational background in an unordered list
+List out all previous work experience in an ordered List
+
+CONTACT PAGE
+Have a navigation bar that goes to the other pages
+Must include a form that collects all this information with appropriate labels, placeholders and also a submit button
+1.	Name
+2.	Age
+3.	Email
+4.	Favorite time of the day i.e. Morning, Afternoon, Night (hint: radio)
+5.	A dropdown option to select their title
+6.	A textarea to get their house address
+
+
+
+
+
