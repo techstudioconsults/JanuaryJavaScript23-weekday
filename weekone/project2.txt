@@ -1,0 +1,33 @@
+A Product Blog- This website will have 3 pages; landing, about and a product page.
+This webpage must use all the appropriate HTML semantic tag
+
+Requirements
+Landing page
+This page will have a navigation bar that goes to the other pages, 
+a back to top anchor
+A full width image of the product that is being sold on the website
+A button that says view more product that goes to the product page.
+it should also contain  at least two reviews from previous customers in an unordered list
+
+About page
+This page will have a navigation bar that goes to the other pages, 
+a back to top anchor
+Must contain a mission and vision section about the company. 
+anchor tags that links to all your social media account 
+(use images as label content, twitter, instagram and whatsapp images)
+resize images to look a lot smaller
+
+
+Product Page
+This page will have a navigation bar that goes to the other pages,
+ a back to top page
+use a table to display at least five products 
+and this must contain product name, product image(resize image to look good)
+ and product price
+create a form that allows user order for any product,
+form must contain, title(select field) customers name, telephone number, 
+house address, product of choice, coupon code
+also use a checkbox to ask if they want to be added to a newsletter and
+also a checkbox if they would like to retain their information
+and lastly a Checkout button
+ 
